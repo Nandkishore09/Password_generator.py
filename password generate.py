@@ -9,7 +9,8 @@ def generate_password(length):
         password += random.choice(chars)
         i += 1
     return password
-
+    
+print("🔐 Welcome to Secure Password Generator 🔐")
 while True:
     try:
         length = input("\nEnter password length (0 to exit): ")
@@ -26,4 +27,5 @@ while True:
 
     except ValueError :
         print("Invalid choice! Please choose digit no:" )
+
 
