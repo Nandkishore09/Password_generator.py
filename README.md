@@ -5,7 +5,7 @@ This is a simple Password Generator written in Python.
 It generates a strong and secure random password using letters, digits, and special characters.
 <br>
 
-#Features
+#Features✨
   <br>
   · Generates random passwords of custom length.
   <br>
@@ -13,4 +13,5 @@ It generates a strong and secure random password using letters, digits, and spec
   <br>
   · Input validation with proper error handling.
   <br>
-  · Minimum length restriction for better password strength.
+  · Minimum length restriction for better password strength. 
+  
